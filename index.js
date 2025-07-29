@@ -1,4 +1,4 @@
-// console.log("Hello world")
+
 
 const mongoose = require("mongoose");
 const { faker } = require("@faker-js/faker");
